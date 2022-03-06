@@ -1,0 +1,38 @@
+*{
+    position: relative;
+}
+
+.carousel{
+    background-image: url("./images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.second{
+    background-image: url("https://www.pngmagic.com/product_images/best-background-images-for-projects-sm.jpg");
+    height: 200px;
+}
+h2{
+    color: black;
+}
+#list{
+    display: grid;
+    color: whitesmoke;
+    margin-left: 10px;
+    margin-top: 0px;
+    justify-content: center;
+    font-family: cursive;
+    color: bisque;
+}
+#ids{
+   
+    justify-content: center;
+    
+  
+}
+#email{
+    margin-left: 5px;
+    padding-left: 10px;
+    
+}
+
